@@ -1,4 +1,0 @@
-html, body{height:90%;}
-body{background:#2F292A url(img/smith-and-williams-logo.png) no-repeat center center;}
-div{display:none;}
-@media screen and (max-width:500px){body{background-size: 90% ;}}
